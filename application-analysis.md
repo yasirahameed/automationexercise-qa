@@ -1,4 +1,4 @@
-# Automation Exercise — Senior QA Application Analysis
+# Automation Exercise —Application Analysis
 
 **Application:** https://automationexercise.com/  
 **Document:** `manual-testing/application-analysis.md`  
